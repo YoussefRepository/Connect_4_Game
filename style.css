@@ -1,5 +1,10 @@
-.body {
-  width: 200px;
-  height: 200px;
-  background-color: firebrick;
+/* Start Global Rules */
+:root {
+  --background: #7945ff;
+  --player-yellow: #ffce67;
+  --player-purple: #fd6687;
+  --wave-yellow: #ffce69;
+  --wave-purple: #5c2dd5;
+  --box-shadow: 0 10px 0 black;
 }
+/* End Global Rules */
